@@ -1,6 +1,7 @@
-"import java.util.Scanner;
+import java.util.Scanner;
 
 public class ContaCorrente {
+
     public static void extrato(String nome, String tipoConta, double saldo) {
         System.out.println("**********************************");
         System.out.println("Dados do cliente: \n");
